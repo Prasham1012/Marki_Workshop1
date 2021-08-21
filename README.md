@@ -1,2 +1,2 @@
-# Marki_Workshop1
+# Marki_Workshops
 Poster image
